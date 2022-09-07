@@ -6,88 +6,140 @@
             "ola",
             "ole",
             "inicio",
-            "welcome",
             "buenos días",
             "buenas tardes",
             "buenas noches",
             "me dieron este número",
-            "venden a crédito",
-            "quisiera saber si venden",
-            "necesito saber"
+            "necesito saber",
+            "menu"
         ],
         "key": "STEP_1"
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "alojamiento /reservas ",
+            "alojamiento",
+            "reservas",
+            "1"
+       ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
-        ],
-        "key": "STEP_2_1"
-    },
-    {
-        "keywords":  [
-            "node"
-        ],
-        "key": "STEP_2_2"
-    },
-    {
-        "keywords":  [
-            "ngrx"
-        ],
-        "key": "STEP_2_3"
-    },
-    {
-        "keywords":  [
-            "aws"
-        ],
-        "key": "STEP_2_4"
-    },
-    {
-        "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "ubicación",
+            "ubicacion",
+            "locacion",
+            "2"
         ],
         "key": "STEP_3"
     },
     {
         "keywords":  [
-            "muchas gracias",
-            "ok",
-            "gracias",
-            "vale gracias"
+            "alquiler de vehículos",
+            "renta",
+            "alquiler",
+            "vehiculo",
+            "moto",
+            "mulita",
+            "carrito",
+            "3"
         ],
         "key": "STEP_4"
     },
     {
         "keywords":  [
-            "youtube"
+            "Información turística",
+            "Informacion turistica",
+            "tours",
+            "tour",
+            "cayos",
+            "tures",
+            "rockie",
+            "4"
         ],
         "key": "STEP_5"
     },
     {
         "keywords":  [
-            "VER_CURSOS"
+            "mapa de sai",
+            "mapa",
+            "5"
         ],
         "key": "STEP_6"
     },
     {
         "keywords":  [
-            "telegram"
+            "lavanderia",
+            "ropa",
+            "lavar ropa",
+            "6"
         ],
         "key": "STEP_7"
     },
     {
         "keywords":  [
-            "audio"
+            "domicilios",
+            "delivery",
+            "comida rapida",
+            "7"
         ],
         "key": "STEP_8"
+    },
+    {
+        "keywords":  [
+            "recomendados turísticos.",
+            "museos",
+            "maravillas",
+            "8"
+        ],
+        "key": "STEP_9"
+    },
+    {
+        "keywords":  [
+            "restaurantes recomendados.",
+            "restaurantes",
+            "9"
+        ],
+        "key": "STEP_10"
+    },
+    {
+        "keywords":  [
+            "datos curiosos",
+            "datos",
+            "10"
+        ],
+        "key": "STEP_11"
+    },
+    {
+        "keywords":  [
+            "11"
+        ],
+        "key": "STEP_12"
+    },
+    {
+        "keywords":  [
+            "cristian ",
+            "asesor",
+            "ayuda",
+            "12"
+        ],
+        "key": "STEP_13"
+    },
+    {
+        "keywords":  [
+            "preguntas frecuentes",
+            "preguntas",
+            "13"
+        ],
+        "key": "STEP_14"
+    },
+    {
+        "keywords":  [
+            "Información de The Rock house ",
+            "informacion",
+            "hostal",
+            "14"
+        ],
+        "key": "STEP_15"
     }
 ]
