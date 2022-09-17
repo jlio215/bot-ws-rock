@@ -1,5 +1,5 @@
 {
-  "name": "test-ws-bot",
+  "name": "ws-bot-rock",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+
     "@google-cloud/dialogflow": "^4.7.0",
     "cors": "^2.8.5",
     "dotenv": "^11.0.0",
